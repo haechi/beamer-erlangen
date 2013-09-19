@@ -6,7 +6,7 @@ A pdfTeX beamer theme for the Technical Faculty of the FAU Erlangen
 1. Introduction
 ---------------
 
-This beamer theme is derived from the [beamer-polymtl](https://github.com/mvonthron/beamer-polymtl)theme done by Manuel Vonthron. The color theme and watermarks have been changed to match the colors of the technical faculty of the FAU Erlangen.
+This beamer theme is derived from the [beamer-polymtl](https://github.com/mvonthron/beamer-polymtl) theme done by Manuel Vonthron. The color theme and watermarks have been changed to match the colors of the technical faculty of the FAU Erlangen.
 The theme uses three main colors blue, orange and grey, which should be in good relationship to each other according to the color wheel. 
 This theme was created and used for my defense and has neither been approved for official used nor has it been reviewed by the faculty office. 
 
