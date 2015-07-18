@@ -35,9 +35,12 @@ Color theme and beamer style is included. The image files were created using Omn
 ----------
 
 Tile page
+
 ![Title page](http://haechi.me/assets/images/beamer-erlangen-01.jpg)
 
+
 Block enviroment 
+
 ![Block environment](http://haechi.me/assets/images/beamer-erlangen-03.jpg)
 
 6. License
