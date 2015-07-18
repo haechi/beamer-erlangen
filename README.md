@@ -31,7 +31,16 @@ Take a look at the included example file. Include the theme in your document pre
 
 Color theme and beamer style is included. The image files were created using OmniGraffe on OS X. Source files are included.
 
-5. License
+5. Examples
+----------
+
+Tile page
+![Title page](http://haechi.me/assets/images/beamer-erlangen-01.jpg)
+
+Block enviroment 
+![Block environment](http://haechi.me/assets/images/beamer-erlangen-03.jpg)
+
+6. License
 ----------
 
 This theme is provided as it, no strings attached. 
